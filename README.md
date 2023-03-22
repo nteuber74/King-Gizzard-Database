@@ -13,7 +13,13 @@ Currently trying to implement:
 -Filtering by sound quality and source
 
 In future:
+
 -Adding information about the albums that the songs are on to determine frequencies
+
 -Adding information on noteworthy teases and filtering by them
+
 -Linking queries for famous sequences to checkboxes (Inner Cell trilogy, Mind Fuzz Medley, etc)
 
+-Random show/random song
+
+-Analyzing which setlist was closest to my tastes
